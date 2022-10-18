@@ -1,0 +1,53 @@
+body {
+    font-size: 15pt;
+    background-image: url(Tech.jpg);
+    background-size: 3000px;
+}
+  .A {
+    font-size: 50px;
+     color: #ff0000;
+     
+     }
+
+  .B{
+    font-size: 50px;
+    color: grey;
+    font: 13px;
+    font-family: Roboto;
+    border: none;
+    background: #ff0000;
+    border-radius: 5px;
+  }
+.logo{
+  image-resolution: 10px;
+}
+.txt1{
+  font-size:20px;
+}
+.bar{
+  border-top: 1px;
+  border-bottom: 1px;
+  border-color: white;
+}
+ul {
+  display: block;
+   width: 60px;
+}
+.home{
+font-size: 30px;
+  color: grey;
+  font: 13px;
+  font-family: Roboto;
+  border: none;
+  background: #ff0000;
+  border-radius: 5px;
+  
+  
+}
+  
+body{
+  background-image: url(Tech.jpg)
+}
+.frame {
+resize: 15px;
+}
